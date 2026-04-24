@@ -17,21 +17,6 @@ This project summarizes and links to the Nature Medicine paper:
   - editorial-style typography and layout
   - citation block linking to the original paper
 
-## 🚀 Quick start
-
-No build step is required.
-
-1. Clone the repository.
-2. Open `indiaeats.html` in your browser.
-
-Or run a tiny local server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open: <http://localhost:8000/indiaeats.html>
-
 ## 🧭 Purpose
 
 The goal is to make important nutrition and metabolic-health research from India easier to understand for a broad audience, without replacing the original scientific publication.
